@@ -18,7 +18,7 @@ public class Main {
     	String lastName = "Taniguchi";
     	
         //getName関数の呼び出しと出力
-//        System.out.println(getName(firstName, lastName));
+        System.out.print(getName(firstName, lastName));
         System.out.println();
 
         int[] arr = {11, 12, 13, 14, 15, 16, 17, 18, 19, 20};
@@ -37,9 +37,9 @@ public class Main {
     //  修飾子：public
     //   引数には①で定義したfirstNameとlastNameを引数で受け取り、
     //  連結した値を返り値とする変数を定義しなさい。
-    public static void getName(String firstName, String lastName) {
+    public static String getName(String firstName, String lastName) {
     	String name = firstName + " " + lastName;
-    	System.out.println(name);
+    	return name;
     }
 
 
