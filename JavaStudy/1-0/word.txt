@@ -1,0 +1,34 @@
+単語集
+
+IT
+	IT : Infomation Technology
+	ICT : Infomation and Communication Technology
+	IoT : Internet of Things
+
+OS
+	OS : Operating System
+	Windows
+	macOS(Mac OS X)
+	UNIX : アメリカ生まれのOS。現在は有料のコード。マウスを使わず、コマンドで操作する。macOS、カーナビ、携帯電話の基盤。
+	Linux : フィンランド生まれのOS。現在でも無料のコード。Androidの基盤。
+
+言語・環境
+	マークアップ/フロントエンド
+		HTML : Hyper Text MarkUP Languageの略。主にWebページの作成に用いる。
+		CSS : HTMLの飾り付け。
+		JavaScript : 主にHTMLのWebページに動きをつけるときに用いる。
+			jQuery : JavaScitpyのライブラリの一つ。コードを簡潔化することができる。
+		Java SE : Java Standard Editionの略。Javaの基本的な機能をまとめたもの。
+	サーバサイド
+		.NET(C#, VB)
+		Java
+			Java SE : Java Standard Editionの略。Javaの基本的な機能をまとめたもの。
+			Java EE(Jakarta EE)
+		Perl
+		PHP
+		Ruby
+
+サーバーソフト
+	Apache
+	nginx
+	IIS
