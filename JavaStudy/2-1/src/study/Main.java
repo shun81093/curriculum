@@ -6,7 +6,7 @@ package study;
  * 課題範囲は以下のとおりです。
  *   Main.java: 問①から問③
  * 指定された値と変数名を守って記述してください。
- *
+ *　ここの変更追加しました
  */
 public class Main {
 
