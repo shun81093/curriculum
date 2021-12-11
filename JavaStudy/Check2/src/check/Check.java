@@ -4,8 +4,8 @@ import constants.Constants;
 
 public class Check {
 	
-	private static String firstName = "谷口";
-	private static String lastName = "駿一";
+	private static final String firstName = "谷口";
+	private static final String lastName = "駿一";
 
 	public static void main(String[] args) {
 		
