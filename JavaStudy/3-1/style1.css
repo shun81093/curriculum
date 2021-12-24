@@ -7,11 +7,10 @@
 .wrapper {
     width: 80%;
     margin: 0 auto;
-    background-color: burlywood;
+    color: white;
 }
 
 .header {
-    color: white;
     margin: 0 auto;
     width: 400px;
     height: 100px;
@@ -19,12 +18,12 @@
 }
 
 .main {
+    background-color: dimgrey;
     width: 400px;
     margin: 0 auto;
 }
 
 .left {
-    color: white;
     float: left;
     width: 150px;
     height: 250px;
@@ -32,7 +31,6 @@
 }
 
 .right {
-    color: white;
     float: right;
     width: 250px;
     height: 250px;
@@ -40,7 +38,6 @@
 }
 
 .footer {
-    color: white;
     margin: 0 auto;
     width: 400px;
     height: 100px;

@@ -1,4 +1,8 @@
 @media screen and (max-width: 767px) {
+    .main {
+        width: 250px;
+    }
+
     .header {
         width: 250px;
     }
@@ -13,6 +17,10 @@
 }
 
 @media screen and (max-width: 479px) {
+    .main {
+        width: 150px;
+    }
+
     .header {
         width: 150px;
     }
@@ -25,3 +33,4 @@
         width: 150px;
     }
 }
+
