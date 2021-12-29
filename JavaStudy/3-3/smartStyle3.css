@@ -1,0 +1,52 @@
+@media screen and (max-width: 479px) {
+    .wrapper {
+        width: 200px;
+    }
+
+    .header {
+        width: 200px;
+        height: 200px;
+    }
+
+    .container {
+        width: 60px;
+        height: 160px;
+        margin: 20px 70px auto auto;
+    }
+
+    .inner-box2 {
+        top: 0px;
+        left: 0px;
+    }
+
+    .inner-box3 {
+        top: 0px;
+        left: 0px;
+    }
+
+    .left {
+        width: 200px;
+        height: 100px;
+    }
+
+    .right {
+        width: 200px;
+        height: 210px;
+    }
+
+    .inner-box4 {
+        margin: 20px auto auto auto;
+    }
+
+    .inner-box5 {
+        margin: 10px auto;
+    }
+
+    .inner-box6 {
+        margin: 10px auto;
+    }
+
+    .footer {
+        width: 200px;
+    }
+}
