@@ -25,13 +25,13 @@ public class EmployeeService {
  /** ・ユーザー名 */
  private static final String USER = "postgres";
  /** ・パスワード */
- private static final String PASS = "shunichi81093";
+ private static final String PASS = "postgres";
  /** ・タイムフォーマット */
  private static final String TIME_FORMAT = "yyyy/MM/dd HH:mm:ss";
  
   // 問② 入力された値で、UPDATEする文
  /** ・SQL UPDATE文 */
- private static final String SQL_UPDATE = "UPDATE Employee_table SET login_time = ? , id = ?";
+ private static final String SQL_UPDATE = "UPDATE Employee_table SET login_time = ? WHERE id = ?";
  
   // 問③ 入力されたIDとPassWordをキーにして、検索するSELECT文
  /** ・SQL SELECT文 */
